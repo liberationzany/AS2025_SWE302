@@ -203,7 +203,7 @@ Source code available under the [MIT License](LICENSE).
 
 ## 🔗 Links
 - **🌐 Live Demo**: [React‑Quiz App](#)  
-- **📂 Repository**: [https://github.com/Rynorbu/React‑Quiz](https://github.com/liberationzany/AS_02230300_reactquiz.git)  
+- **📂 Repository**: [React‑Quiz](https://github.com/liberationzany/AS_02230300_reactquiz.git)  
 
 Terminal Test Execution Screenshot:
 ![Terminal Test Execution](src/Screenshot%202025-12-06%20162656.png)
